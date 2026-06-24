@@ -311,7 +311,7 @@ Agregar aquí capturas de:
 
 | Integrante | Rol |
 |------------|------|
-| Adrian Daniel Santisteban Manrique | Frontend Developer |
+| Santisteban Manrique Adrian Daniel | Frontend Developer |
 | Siri Vergara Maria Alejandra | Backend / QA |
 | Villasante Contreras Jean Paul | UX/UI |
 
