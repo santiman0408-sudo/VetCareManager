@@ -300,10 +300,20 @@ Confirmar eliminación.
 Agregar aquí capturas de:
 
 - Login
+  <img width="483" height="879" alt="Login aplicativo VetCareManager" src="https://github.com/user-attachments/assets/b14fb3c4-9687-4f9a-a472-93d60be6576f" />
+
 - Home Dashboard
+  <img width="484" height="879" alt="Home Dashboard aplicativo VetCareManager" src="https://github.com/user-attachments/assets/2da1d96e-fa70-4b0a-b5db-0740366aca2e" />
+
 - Listado de Solicitudes
+  <img width="481" height="879" alt="Lista de Solicitudes aplicativo VetCareManager" src="https://github.com/user-attachments/assets/6d14bc72-9640-4ef2-80b5-b590d4216a1f" />
+
 - Detalle de Solicitud
+  <img width="479" height="879" alt="Detalle de Solicitudes aplicativo VetCareManager" src="https://github.com/user-attachments/assets/616cd8ed-937b-4069-a656-635c8e4c6d52" />
+
 - Crear Solicitud
+  <img width="478" height="879" alt="Crear Solicitudes aplicativo VetCareManager" src="https://github.com/user-attachments/assets/0b64929d-b876-4a4d-881b-854776eb91c2" />
+
 
 ---
 
